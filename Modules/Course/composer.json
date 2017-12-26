@@ -1,0 +1,15 @@
+{
+	"name": "leonardohipolito/course",
+	"description": "",
+	"authors": [
+		{
+			"name": "Leonardo Hipolito",
+			"email": "leonardohipolito@outlook.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Modules\\Course\\": ""
+		}
+	}
+}

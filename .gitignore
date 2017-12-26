@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+/public/storage
+/public/courses
+Homestead.yaml
+Homestead.json
+.env
+Cursos.sublime-project
+Cursos.sublime-workspace
